@@ -8,7 +8,7 @@
 import UIKit
 
 class PassingValueViewController: UIViewController {
-private var passingValue = ""
+var passingValue = ""
     
     @IBOutlet weak var passingValueLabel: UILabel!
     
